@@ -1,0 +1,9 @@
+html {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 700;
+}
